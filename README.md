@@ -1,20 +1,20 @@
 # OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction
 
-[EDA](https://www.kaggle.com/code/vatsalparsaniya/openvaccine-eda)
+- [EDA](https://www.kaggle.com/code/vatsalparsaniya/openvaccine-eda)
 
-[AE pretrain + GNN + Attn + CNN](https://www.kaggle.com/code/mrkmakr/covid-ae-pretrain-gnn-attn-cnn)
+- [checkout BPPs](https://www.kaggle.com/code/hidehisaarai1213/openvaccine-checkout-bpps)
 
-[GCN (GraphSAGE)+GRU+KFold](https://www.kaggle.com/code/vudangthinh/openvaccine-gcn-graphsage-gru-kfold)
+- [Generating Graph Matrices from the Structures](https://www.kaggle.com/code/theoviel/generating-graph-matrices-from-the-structures)
 
-[GRU+LSTM Hyperparameter search](https://www.kaggle.com/code/imeintanis/openvaccine-gru-lstm-hyperparameter-search)
+- [Neighborhood Attention Architecture](https://www.kaggle.com/code/reppic/neighborhood-attention-architecture)
 
-[GCN](https://www.kaggle.com/code/jameschapman19/openvaccine-gcn)
+- [AE pretrain + GNN + Attn + CNN](https://www.kaggle.com/code/mrkmakr/covid-ae-pretrain-gnn-attn-cnn)
 
-[Neighborhood Attention Architecture](https://www.kaggle.com/code/reppic/neighborhood-attention-architecture)
+- [GCN (GraphSAGE)+GRU+KFold](https://www.kaggle.com/code/vudangthinh/openvaccine-gcn-graphsage-gru-kfold)
 
-[checkout BPPs](https://www.kaggle.com/code/hidehisaarai1213/openvaccine-checkout-bpps)
+- [GRU+LSTM Hyperparameter search](https://www.kaggle.com/code/imeintanis/openvaccine-gru-lstm-hyperparameter-search)
 
-[Generating Graph Matrices from the Structures](https://www.kaggle.com/code/theoviel/generating-graph-matrices-from-the-structures)
+- [GCN](https://www.kaggle.com/code/jameschapman19/openvaccine-gcn)
 
 ---
 
